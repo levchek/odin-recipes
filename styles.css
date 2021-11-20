@@ -1,11 +1,25 @@
 
-body {background-color: white;font-family: sans-serif; text-align: justify;}
+body {
+    background-color: white;
+    font-family: sans-serif; 
+    text-align: justify;
+}
         
-div {max-width: 900px; margin:auto;}
+div {
+    max-width: 900px; 
+    margin:auto;
+}
        
-h1 {text-align: center;}
+h1 {
+    text-align: center;
+}
        
-footer {text-align: center;}
+footer {
+    text-align: center;
+}
       
-table {margin-left: auto; margin-right: auto;}
+table {
+    margin-left: auto; 
+    margin-right: auto;
+}
 
